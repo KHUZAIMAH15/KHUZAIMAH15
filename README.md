@@ -4,9 +4,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuzaimah15" alt="khuzaimah15" /></a> </p>
 
-- 🔭 I’m currently learning **HTML**
+- 🔭 I’m currently learning **CSS**
 - 🎓 Studying Computer Science, computer programming and Mathematics.
 - 🌱 Enthusiast in software engineering and Artificial Intelligence .
+-  💬Ask me about **HTML**
 - 📫 How to reach me **Muhammadkhuzaimah15@gmail.com**
 <hr />
 
