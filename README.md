@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad khuzaimah</h1>
+<h1 align="center">Hi 👋, I'm 𝓜𝓤𝓗𝓐𝓜𝓜𝓐𝓓 𝓚𝓗𝓤𝓩𝓐𝓘𝓜𝓐𝓗</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khuzaimah15&label=Profile%20views&color=0e75b6&style=flat" alt="khuzaimah15" /> </p>
 
