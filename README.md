@@ -12,7 +12,7 @@
 <hr />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuzaimah15&show_icons=true&locale=en" alt="khuzaimah15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuzaimah15&show_icons=true&locale=en" alt="khuzaimah15" /></p>.
 
 <br><br>
 
