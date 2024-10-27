@@ -11,7 +11,7 @@
 - 📫 How to reach me **Muhammadkhuzaimah15@gmail.com** 
 
 
-<hr />.
+<hr />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KHUZAIMAH15&show_icons=true&locale=en" alt="khuzaimah15" /></p>
