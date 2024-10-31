@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **CSS**
 - 🎓 Studying Computer Science, computer programming and Mathematics
-- 🌱 Enthusiast in software engineering ,Artificial Intelligence and Graphic design.
+- 🌱 Enthusiast in software engineering ,Artificial Intelligence and Graphic designing.
 -  💬Ask me about **HTML**
 - 📫 How to reach me **Muhammadkhuzaimah15@gmail.com** 
 
