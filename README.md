@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KHUZAIMAH15" alt="khuzaimah15" /></a> </p>
 
-- 🔭 I’m currently learning **CSS**
+- 🔭 I’m currently learning **Java script**
 - 🎓 Studying Computer Science, computer programming and Mathematics
 - 🌱 Enthusiast in software engineering ,Artificial Intelligence and Graphic designing.
 -  💬Ask me about **HTML**
