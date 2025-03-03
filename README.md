@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning **Java script**
 - 🎓 Studying Computer Science, computer programming and Mathematics
 - 🌱 Enthusiast in software engineering ,Artificial Intelligence and Graphic designing.
--  💬Ask me about **HTML**
+-  💬Ask me about **HTML,css**
 - 📫 How to reach me **Muhammadkhuzaimah15@gmail.com** 
 
 
