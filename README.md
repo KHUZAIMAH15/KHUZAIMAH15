@@ -14,8 +14,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KHUZAIMAH15&show_icons=true&locale=en" alt="khuzaimah15" /></p>
-<br><br>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KHUZAIMAH15&" alt="khuzaimah15" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimah15&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /></p>
 <h3 align="left">Languages and Tools:</h3>
