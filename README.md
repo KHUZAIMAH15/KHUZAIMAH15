@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KHUZAIMAH15&label=Profile%20views&color=0e75b6&style=flat" alt="khuzaimah15" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KHUZAIMAH15" alt="khuzaimah15" /></a> </p>
+
 - 🔭 Currently learning JavaScript, exploring functions, closures, and DOM wizardry  
 
 - 🎓 Pursuing a Computer Science degree—where logic meets creativity
