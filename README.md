@@ -4,10 +4,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KHUZAIMAH15" alt="khuzaimah15" /></a> </p>
 - 🔭 Currently learning JavaScript, exploring functions, closures, and DOM wizardry  
-- 🎓 Pursuing a Computer Science degree—where logic meets creativity  
-- 🌱 Enthusiastic about Software Engineering, with a deep interest in the principles of Computer Science, Artificial Intelligence, and Graphic Design  
-- 💬 Ask me about HTML, CSS, or JavaScript—I love turning curiosity into clean, interactive code  
-- 🤔 “I debug not just to fix things, but to understand why they break.”  
+
+- 🎓 Pursuing a Computer Science degree—where logic meets creativity
+ 
+- 🌱 Enthusiastic about Software Engineering, with a deep interest in the principles of Computer Science, Artificial Intelligence, and Graphic Design
+ 
+- 💬 Ask me about HTML, CSS, or JavaScript—I love turning curiosity into clean, interactive code
+   
+- 🤔 “I debug not just to fix things, but to understand why they break.”
+   
 - 📫 How to reach me: **Muhammadkhuzaimah15@gmail.com**
 <hr/>
 
