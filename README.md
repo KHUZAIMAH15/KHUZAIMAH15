@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KHUZAIMAH15&" alt="khuzaimah15" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimah15&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img 
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img 
