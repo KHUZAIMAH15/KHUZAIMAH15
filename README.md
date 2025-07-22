@@ -15,5 +15,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KHUZAIMAH15&" alt="khuzaimah15" /></p>
 <h3 align="left" alt= "khuzaimah15">Languages and Tools:</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,git" alt="khuzaimah15" /><img>                                                                               
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,git,vercel,netlify,figma" alt="khuzaimah15" /><img>                                                                               
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimah15&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /></p>
